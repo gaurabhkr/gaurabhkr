@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZpa3Y2N3dwM3dzbzhqMzJ4NjJrczJ5ZjRmbGVvdDlkeDcyZDl3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npY8OaCJcdGvBw2GtM/giphy.gif" align="center" height="300" width="6000" /> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhvNGkzb3NpbGE0emVtMWM3enJ3cHRueWFlOTVyMTkwbHA1Y2Z2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJaisp8H2yQ8g/giphy.gif" align="center" height="300" width="6000" /> 
 
 ## Hey 👋, I'm Gaurabh !👾  
 
