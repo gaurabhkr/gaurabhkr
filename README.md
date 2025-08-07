@@ -38,7 +38,7 @@ I’m a **Backend Developer** who loves to deep dive into the System and always 
  
  </td><td valign="top" width="50%">
  
- 
+ <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5naXpnaWNjbmg4eDU5YzRjaXc4b2lqMGl1bGc5dTNteW54cTM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IffLnwlgZNgAQlVFT1/giphy.gif" align="" height="310" width="500" style="width: 100%" /> 
   </td></tr> </table> 
   <br/>
   
